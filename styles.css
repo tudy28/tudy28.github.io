@@ -909,5 +909,6 @@ small {
     .about-me img {
         width: 325px;
         height: 325px;
+        margin: 0 auto;
     }
 }
