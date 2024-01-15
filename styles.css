@@ -14,10 +14,6 @@
     font-size: 10px;
 
     /* style for scrollbar */
-    scrollbar-width: thin;
-    scrollbar-color: var(--other-clr) hsl(0, 0%, 73%);
-    scrollbar-width: thin;
-    scrollbar-gutter: stable;
 }
 
 /* style webkit browsers (chrome, edge) scrollbar */
